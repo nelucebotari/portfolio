@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="logo" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" enable-background="new 0 0 200 200" xml:space="preserve">
+<g id="rect-bg">
+	<rect fill="#FFF205" width="200" height="200"/>
+</g>
+
+<g id="inside">
+	<circle fill-rule="evenodd" clip-rule="evenodd" fill="#1C1C1C" cx="138" cy="105" r="24"/>
+	<circle fill-rule="evenodd" clip-rule="evenodd" fill="#1C1C1C" cx="62" cy="105" r="24"/>
+	<polygon fill-rule="evenodd" clip-rule="evenodd" fill="#1C1C1C" points="138,105 99.901,104.983 80.858,72 119,72 	"/>
+</g>
+<g id="frame">
+	
+		<circle fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#FFF205" stroke-width="4" stroke-miterlimit="10" cx="138" cy="105" r="24"/>
+	
+		<circle fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#FFF205" stroke-width="4" stroke-miterlimit="10" cx="62" cy="105" r="24"/>
+	
+		<polygon fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#FFF205" stroke-width="4" stroke-linejoin="bevel" stroke-miterlimit="10" points="
+		138,105 99.901,104.983 80.858,72 119,72 	"/>
+	
+		<line fill="none" stroke="#FFF205" stroke-width="4" stroke-linejoin="bevel" stroke-miterlimit="10" x1="99.901" y1="104.983" x2="129.952" y2="52.933"/>
+	<path fill="none" stroke="#FFF205" stroke-width="4" stroke-linejoin="bevel" stroke-miterlimit="10" d="M74,72l-3,0
+		c-3.866,0-7-3.134-7-7s3.134-7,7-7h17.95l-27.094,46.983"/>
+	
+		<line fill-rule="evenodd" clip-rule="evenodd" fill="none" stroke="#FFF205" stroke-width="4" stroke-linejoin="bevel" stroke-miterlimit="10" x1="119" y1="53" x2="135" y2="53"/>
+</g>
+</svg>
